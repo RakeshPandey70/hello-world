@@ -1,2 +1,4 @@
 <div>This is my first story</div>
 <li>This is second change to the story</li>
+<div>This is third change to the story</div>
+<div>This is fourth change to the story</div>
